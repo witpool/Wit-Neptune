@@ -1,0 +1,5 @@
+server:
+  port: 8080
+wituser:
+  userName: Dom Wang
+  email: witpool@outlook.com
