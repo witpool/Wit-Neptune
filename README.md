@@ -26,5 +26,5 @@ RESTful API demo with `Spring Boot`.
 ![image](https://github.com/witpool/Wit-Neptune/blob/master/Wit-RESTClient.png)<br/>
 More about the usages of the tool, please visit [WisdomTool REST Client](https://github.com/wisdomtool/rest-client).<br/>
 
-[Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)<br/>
+7. [Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)<br/>
 ![Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)
