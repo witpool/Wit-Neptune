@@ -1,8 +1,6 @@
 # Wit-Neptune
 RESTful API demo with `Spring Boot`.
 
-[Full source code（完整的源代码）](https://github.com/witpool/Wit-Neptune/blob/master/Wit-Neptune-V1.0.zip)
-
 1. You need to install `Java 1.8.0 or above, Maven 3.2.1 or above, MYSQL` first.<br/>
 
 2. [Wit-Neptune-Tree](https://github.com/witpool/Wit-Neptune/blob/master/Wit-Neptune-Tree.txt)<br/>
