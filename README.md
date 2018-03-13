@@ -19,10 +19,8 @@ RESTful API demo with `Spring Boot`.
 5. Start Spring Boot application.<br/>
 `java -jar wit-rest/target/wit-rest-1.0.jar`<br/>
 
-6. UT by [WisdomTool REST Client](https://github.com/wisdomtool/rest-client/blob/master/restclient-1.1.jar)
+6. UT by [WisdomTool REST Client](https://github.com/Wisdom-Projects/rest-client/blob/master/tools/restclient-1.2.jar)
 , import testing [case file.](https://github.com/witpool/Wit-Neptune/blob/master/Wit-Neptune-Cases.json)
 ![image](https://github.com/witpool/Wit-Neptune/blob/master/Wit-RESTClient.png)<br/>
-More about the usages of the tool, please visit [WisdomTool REST Client](https://github.com/wisdomtool/rest-client).<br/>
+More about the usages of the tool, please visit [Wisdom RESTClient](https://github.com/Wisdom-Projects/rest-client).<br/>
 
-7. [Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)<br/>
-![Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)
